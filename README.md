@@ -13,4 +13,4 @@ Then use one of the following three functions to give it a value:
 	$color->set_rgb(array($r, $g, $b));
 	$color->set_hsl(array($h, $s, $l));
 
-View example.php for to see some possible functions.
+View `index.php` to see some examples.
